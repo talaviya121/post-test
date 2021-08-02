@@ -1,4 +1,3 @@
-Account Management System
 
 first do: `npm i`
 
