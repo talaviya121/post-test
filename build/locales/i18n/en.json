@@ -1,0 +1,16 @@
+{
+    "success":{
+        "POST_CREATED_SUCCESS": "Post created successfully.",
+        "POST_UPDATED_SUCCESS": "Post updated successfully.",
+        "POST_DELETE_SUCCESS": "Post deleted successfully.",
+        "RATING_ADDED_SUCCESS": "Rating added successfully."
+    },
+    "error":{
+        "POST_CREATE_FAILED": "Error occurred while post create.",
+        "POST_NOT_FOUND": "Post not found.",
+        "POST_UPDATED_FAILED": "Error occurred while post update.",
+        "RATING_ADDED_FAILED": "Error occurred while add rating.",
+        "POST_DELETE_FAILED": "Error occurred while post delete.",
+        "GET_RATING_FAILED": "Error occurred while get rating." 
+    }
+}
